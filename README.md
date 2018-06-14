@@ -1,0 +1,2 @@
+# Implementation-of-MQTT-SN-protocol
+Here in this project, I have created an MQTTSN Broker and an MQTTSN client which communicate with each other and the communication standards and the size of each messages are complied according to the MQTTSN protocol version 1.2. The development of the overall project is done in C# &amp; .netcore. This project was the task for my Software Engineering course at the university. Also attached suffiicent resources to get a fine understanding on the functionalities of the broker and client which are also compliant to the protocol standards. 
