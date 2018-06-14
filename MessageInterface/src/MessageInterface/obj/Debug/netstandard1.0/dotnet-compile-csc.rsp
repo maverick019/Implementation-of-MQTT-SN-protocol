@@ -1,0 +1,41 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:NETSTANDARD1_0
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-t:library
+-debug:full
+-nostdlib
+-nologo
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\obj\Debug\netstandard1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\bin\Debug\netstandard1.0\MessageInterface.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Collections\4.0.11\ref\netstandard1.0\System.Collections.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Diagnostics.Debug\4.0.11\ref\netstandard1.0\System.Diagnostics.Debug.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Diagnostics.Tools\4.0.1\ref\netstandard1.0\System.Diagnostics.Tools.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Globalization\4.0.11\ref\netstandard1.0\System.Globalization.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.IO\4.1.0\ref\netstandard1.0\System.IO.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Linq\4.1.0\ref\netstandard1.0\System.Linq.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Linq.Expressions\4.1.0\ref\netstandard1.0\System.Linq.Expressions.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Net.Primitives\4.0.11\ref\netstandard1.0\System.Net.Primitives.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.ObjectModel\4.0.12\ref\netstandard1.0\System.ObjectModel.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Reflection\4.1.0\ref\netstandard1.0\System.Reflection.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Reflection.Extensions\4.0.1\ref\netstandard1.0\System.Reflection.Extensions.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Reflection.Primitives\4.0.1\ref\netstandard1.0\System.Reflection.Primitives.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Resources.ResourceManager\4.0.1\ref\netstandard1.0\System.Resources.ResourceManager.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Runtime\4.1.0\ref\netstandard1.0\System.Runtime.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Runtime.Extensions\4.1.0\ref\netstandard1.0\System.Runtime.Extensions.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Text.Encoding\4.0.11\ref\netstandard1.0\System.Text.Encoding.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Text.Encoding.Extensions\4.0.11\ref\netstandard1.0\System.Text.Encoding.Extensions.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Text.RegularExpressions\4.1.0\ref\netstandard1.0\System.Text.RegularExpressions.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Threading\4.0.11\ref\netstandard1.0\System.Threading.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Threading.Tasks\4.0.11\ref\netstandard1.0\System.Threading.Tasks.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.0\System.Xml.ReaderWriter.dll"
+-r:"C:\Users\pavan kashyap\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.0\System.Xml.XDocument.dll"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\ClientAuthenticate.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Connack.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Connect.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Defines.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Publish.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Register.cs"
+"C:\Users\pavan kashyap\Documents\Visual Studio 2015\Projects\MessageInterface\src\MessageInterface\Properties\AssemblyInfo.cs"
