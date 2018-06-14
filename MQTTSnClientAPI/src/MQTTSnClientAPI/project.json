@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "MessageInterface": "1.0.31",
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.0.1",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.0.1"
+    },
+    "Newtonsoft.Json": "10.0.3"
+  },
+
+  "frameworks": {
+    "netcoreapp1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
